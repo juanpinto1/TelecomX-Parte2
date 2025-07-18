@@ -4,4 +4,4 @@ o bien ingresar a https://colab.research.google.com/drive/19oXyb-RMdkoe1Ao4wi7E3
 
 Solo Ejecutar Colab donde se entregara el detalle y los paneles con los analisis
 
-Dentro de Colab estan las preguntas y las respuestas correspondiente
+Dentro de Colab estan las preguntas y las respuestas correspondientes
